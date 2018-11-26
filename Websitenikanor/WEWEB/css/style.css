@@ -1,0 +1,26 @@
+body{
+	background:url(../images/1234.jpeg)center fixed;
+}
+.bobo{
+	background:url(../images/beverage.jpg)center fixed;
+	width: auto;
+	height: 400px;
+}
+.Header1{
+	color:gray;
+}
+.col{
+	height: 400px;
+}
+.col1{
+	background:url(../images/Pattern1.jpg)center;
+}
+.bobobo{
+	background-color: rgba(255,255,255,0.2);
+}
+
+.About{
+	background:url(../images/concrete.jpg)center;
+	height: 920px;
+}
+
